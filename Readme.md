@@ -54,3 +54,10 @@ The project has 2 use cases,
 Blog - techvidvan - vehicle detection 
 
 Videos - Youtube
+
+
+
+YOLO V3 Complete Explanation
+
+Step-by-Step Documentation for the Project 
+available here [Link](https://github.com/Avineet-Sharma/Vehicle-Detector-Counter-and-Classifier/blob/main/Vehicle%20Counting%2C%20Classification%20%26%20Detection%20using%20OpenCV%20%26%20Python.pdf)
